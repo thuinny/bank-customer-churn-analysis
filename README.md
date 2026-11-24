@@ -57,7 +57,7 @@ Uma instituição financeira identificou aumento no encerramento de contas apesa
 ---
 
 ## 5. Estrutura do Repositório
-- `analise_churn_bancario.ipynb`: Notebook completo com limpeza, análise exploratória e geração dos gráficos.
+- `analise_churn_bancario (1).ipynb`: Notebook completo com limpeza, análise exploratória e geração dos gráficos.
 - `1_churn_por_pais.png` a `4_churn_engajamento.png`: Visualizações exportadas em alta resolução.
 
 ---
